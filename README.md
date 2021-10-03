@@ -1,0 +1,2 @@
+# Forecasting-of-available-beds
+With the problem statement as "Total Inpatient Beds have been recorded to understand the occupancy of the beds on a daily basis for a year. Our objective is to forecast the data available and find out estimated beds available for the period of next one month." Analysis of data was done. We used several model but choose SARIMA model as the RMSE value was better in Test and Train models. Also, The deployment was made using Flask.
